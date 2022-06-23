@@ -13,5 +13,9 @@ public  void   show(){
 
 }
 
+public   void   show1(){
 
+    System.out.println("aaaaaa");
+
+}
 }
