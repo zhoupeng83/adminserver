@@ -8,7 +8,7 @@ package com.zhoupeng.adminserver.Controller;
 public class UserController {
 
 public  void   show(){
-    System.out.println("zhoupeng");
+    System.out.println("zhoupeng+aaa");
 
 
 }
